@@ -2,9 +2,7 @@
 
 #### My name is Evgeniya Zhukova.
 
-My LinkedIn profile:
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="evgeniya-zhukova" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/evgeniya-zhukova?trk=profile-badge">Evgeniya Zhukova</a></div>
+My LinkedIn profile: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="evgeniya-zhukova" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/evgeniya-zhukova?trk=profile-badge">Evgeniya Zhukova</a></div>
                          
               
               
