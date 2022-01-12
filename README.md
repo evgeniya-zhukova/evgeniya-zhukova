@@ -1,9 +1,10 @@
 ### Hi there 👋 My name is Evgeniya Zhukova.
 
-My LinkedIn profile:
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="evgeniya-zhukova" data-version="v1">
-     <a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/evgeniya-zhukova?trk=profile-badge">Evgeniya Zhukova</a>
-</div><br>
+My LinkedIn profile: <a href="https://ca.linkedin.com/in/evgeniya-zhukova?trk=profile-badge">Evgeniya Zhukova</a>
+<br>
+
+My Sololearn profile: <a href="https://www.sololearn.com/profile/12749809">Evgeniya Zhukova</a>
+<br>
 
 ![Evgeniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=evgeniya-zhukova&theme=tokyonight&show_icons=true)   
 
