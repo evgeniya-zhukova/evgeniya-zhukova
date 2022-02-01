@@ -20,4 +20,18 @@ My Sololearn profile: <a href="https://www.sololearn.com/profile/12749809">Evgen
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+Basics Article - how to create a custom GitHub Profile - https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
+Example(s) - of great custom GitHub Profiles - https://dev.to/diogorodrigues/creating-amazing-github-profiles-readme-5h31
+Optimize - your default GitHub Profile - https://hackernoon.com/how-to-optimize-your-github-profile-9540f338b2c9
+Display - GitHub badges on your profile - https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile
+Resources - to build / customize your GitHub profile - https://github.com/abhisheknaiidu/awesome-github-profile-readme
+Tips Article - how to optimize your custom GitHub Profile - https://dev.to/kmhmubin/create-a-badass-github-profile-readmes-1a02
+
+Repo Tips
+Template - Useful README template - https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme
+Example(s) - Awesome README files - https://github.com/matiassingers/awesome-readme
+Example - using Binder with .ipynb files - https://github.com/BauerLab/GT-scan2-Notebooks
+
 -->
